@@ -1,4 +1,4 @@
-# hello-world
-just for test
+# 24 solver
+to learn python
 
-seems good! easy to use. I could really use a rich editor.
+Math 24 game: Use all 4 numbers and algebra to make 24! Classical math game from China,
